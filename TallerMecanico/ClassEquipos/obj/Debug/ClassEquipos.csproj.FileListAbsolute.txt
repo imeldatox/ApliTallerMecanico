@@ -1,0 +1,9 @@
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\bin\Debug\ClassEquipos.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\bin\Debug\ClassEquipos.pdb
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\obj\Debug\ClassEquipos.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\obj\Debug\ClassEquipos.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\bin\Debug\ClassEquipos.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\bin\Debug\ClassEquipos.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\obj\Debug\ClassEquipos.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\obj\Debug\ClassEquipos.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\ClassEquipos\obj\Debug\ClassEquipos.csprojResolveAssemblyReference.cache

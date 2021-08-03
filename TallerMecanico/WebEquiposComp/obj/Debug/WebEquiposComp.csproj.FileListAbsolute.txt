@@ -1,0 +1,70 @@
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.csprojResolveAssemblyReference.cache
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ApplicationInsights.config
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\csc.exe
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\vbc.exe
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.dll.config
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.pdb
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Web.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Web.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.pdb
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ClassEquipos.dll
+C:\Users\Guadalupe Romero\Desktop\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ClassEquipos.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ApplicationInsights.config
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\csc.exe
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\System.Collections.Immutable.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\System.Reflection.Metadata.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\vbc.exe
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\VBCSCompiler.exe
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\roslyn\VBCSCompiler.exe.config
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.dll.config
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\WebEquiposComp.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ClassEquipos.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Agent.Intercept.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.DependencyCollector.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Web.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.WindowsServer.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.ApplicationInsights.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\ClassEquipos.pdb
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.DependencyCollector.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.Web.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.AI.WindowsServer.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.ApplicationInsights.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.csprojResolveAssemblyReference.cache
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.dll
+I:\ComputadorasEquipos\WebSMaquinasComputo\WebEquiposComp\obj\Debug\WebEquiposComp.pdb

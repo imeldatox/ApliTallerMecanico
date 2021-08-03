@@ -1,0 +1,6 @@
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\bin\Debug\ClassEquipos.dll
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\bin\Debug\ClassEquipos.pdb
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\obj\Debug\ClassTaller.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\obj\Debug\ClassEquipos.dll
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\obj\Debug\ClassEquipos.pdb
+C:\Users\Guadalupe Romero\Desktop\ime\Taller_MecanicoWeb\TallerMecanico\ClassEquipos\obj\Debug\ClassTaller.csproj.AssemblyReference.cache
